@@ -73,6 +73,9 @@ The file structure is organized as follows:
 └── requirements.txt    # Requirements file
 ```
 
+### Process Flow Diagram
+![Alt text](flowchart.png?raw=true "Title")
+
 ## Requirements
 
 The project was developed using Python 3.10 and relies on various dependencies. Install them using:
