@@ -68,7 +68,7 @@ The file structure is organized as follows:
     └── sample.csv
 ├── models/             # Download and place the Llama 2 Model from https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ├── vectorstore/        # Stores Text Embeddings
-    ├── db_faiss/
+    └── db_faiss/
 ├── CORD_19.ipynb       # Main Script
 └── requirements.txt    # Requirements file
 ```
